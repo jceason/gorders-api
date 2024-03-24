@@ -1,4 +1,4 @@
-module gorders-api
+module github.com/jceason/gorders-api
 
 go 1.20
 
