@@ -1,4 +1,4 @@
-module orders-api
+module gorders-api
 
 go 1.20
 
