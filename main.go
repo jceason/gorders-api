@@ -3,7 +3,7 @@ package main
 import ( 
   "context"
   "fmt"
-  "orders-api/application"
+  "gorders-api/application"
 
 )
 
